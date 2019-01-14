@@ -1,0 +1,16 @@
+{
+    "name": "popschool/src-php-poo",
+    "description": "PHP Programmation orientée objet",
+    "authors": [
+        {
+            "name": "Emeric Glinkowski",
+            "email": "emericglin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"": "src/"}
+    },
+    "require": {}
+}
+
+
